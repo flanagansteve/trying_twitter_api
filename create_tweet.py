@@ -2,7 +2,9 @@ from requests_oauthlib import OAuth1Session
 import os
 import json
 
-# insert your keys here
+# insert your keys here - the ones under:
+# Developer Portal -> Projects & Apps -> Overview -> Default project-XXXX
+# and in the Keys and tokens tab -> Consumer Keys -> API Key and Secret
 consumer_key = ''
 consumer_secret = ''
 
